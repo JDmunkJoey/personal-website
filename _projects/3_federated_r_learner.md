@@ -6,10 +6,10 @@ importance: 3
 related_publications: true
 ---
 
-**Graduate Research Assistant, WashU Institute for Informatics, Data Science and Biostatistics** · May 2025 – October 2025
+**Graduate Research Assistant, WashU Institute for Informatics, Data Science and Biostatistics** · May 2025 – October 2025<br>
 Advisors: Dr. Nan Lin and Dr. Linying Zhang
 
-Estimating conditional average treatment effects (CATE) from multi-site clinical data is hampered by privacy constraints that prevent pooling patient-level records. This project develops **Fed-R**, a federated R-learner that learns across sites without sharing patient-level data.
+Estimating conditional average treatment effects (CATE) from multi-site clinical data is hampered by privacy constraints that prevent pooling patient-level records. This project develops **Fed-R**, a federated R-learner for estimating CATE across sites.
 
 - Developed Fed-R, a privacy-preserving, communication-efficient federated R-learner combining local cross-fitting with Neyman-orthogonal residualization and FedProx-style proximal aggregation, achieving √*N*-consistency and asymptotic normality without sharing patient-level data.
 - Uncovered a performance-reversal phenomenon: federated estimation surpasses centralized pooling once sites violate the overlap assumption, cutting global RMSE by 50–70% and improving local estimation accuracy by 2–4×, with most gains realized within 2–5 communication rounds.

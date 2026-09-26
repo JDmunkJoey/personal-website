@@ -10,8 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Jolley Hall, Room 505</p>
-    <p>Washington University in St. Louis</p>
-    <p>St. Louis, MO 63130</p>
+    <p>Washington University in St.&nbsp;Louis</p>
+    <p>St.&nbsp;Louis, MO 63130</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

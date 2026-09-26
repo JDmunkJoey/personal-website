@@ -6,7 +6,7 @@ importance: 4
 related_publications: true
 ---
 
-**Data Science AI&I Intern (PhD Level), Department of Artificial Intelligence & Informatics, Mayo Clinic** · May 2026 – July 2026
+**Data Science AI&I Intern (PhD Level), Department of Artificial Intelligence & Informatics, Mayo Clinic** · May 2026 – July 2026<br>
 Mentors: Dr. Eunji Jeon and Dr. Sunghwan Sohn
 
 This project asks how dementia risk differs under persistent versus intermittent neuropsychiatric symptom (NPS) trajectories.

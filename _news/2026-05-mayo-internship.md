@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Joined **Mayo Clinic** in Rochester, MN, as a summer Data Science AI&I Intern in the Department of Artificial Intelligence & Informatics.
+Joined **Mayo Clinic** in Rochester, MN, for a summer data science internship (PhD level) in the Department of Artificial Intelligence and Informatics.

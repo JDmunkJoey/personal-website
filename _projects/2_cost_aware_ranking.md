@@ -6,7 +6,7 @@ importance: 2
 related_publications: true
 ---
 
-**Graduate Research Assistant, Department of Statistics & Data Science, WashU** · March 2026 – present
+**Graduate Research Assistant, Department of Statistics & Data Science, WashU** · March 2026 – present<br>
 Advisor: Dr. Mengxin (Maxine) Yu
 
 This project asks how to build a leaderboard that is valid for a specific target population when comparison data come from a different source population and labels are expensive to acquire.

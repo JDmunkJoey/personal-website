@@ -6,10 +6,10 @@ importance: 1
 related_publications: true
 ---
 
-**Graduate Research Assistant, Department of Statistics & Data Science, WashU** · June 2025 – February 2026
+**Graduate Research Assistant, Department of Statistics & Data Science, WashU** · June 2025 – February 2026<br>
 Advisor: Dr. Mengxin (Maxine) Yu
 
-This project studies ranking inference under the Bradley–Terry–Luce (BTL) model when the training data are iteratively augmented with synthetic comparisons, with the goal of uncertainty quantification for retrained ranking systems.
+This project studies ranking inference under the Bradley–Terry–Luce (BTL) model when the training data are iteratively augmented with synthetic comparisons.
 
 - Established finite-sample optimal ℓ₂ and ℓ∞ statistical rates, exact top-<em>K</em> recovery, and asymptotic normality of the iterative maximum likelihood estimator over sparse comparison graphs, enabling uncertainty quantification for retrained ranking systems.
 - Developed a coupled induction argument with leave-one-out constructions and quadratic proxies that disentangles temporal dependence across retraining iterations, proving that model collapse is avoided whenever the number of iterations grows at most polynomially in the number of items.
