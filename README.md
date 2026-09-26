@@ -21,7 +21,7 @@ The site is built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https:
 | CV PDF (download link)               | [`assets/pdf/Yiqiao_Jin_CV.pdf`](assets/pdf/Yiqiao_Jin_CV.pdf)                                         |
 | Social / contact icons               | [`_data/socials.yml`](_data/socials.yml)                                                               |
 
-To use a real photo, add it as `assets/img/prof_pic.jpg` and set `image: prof_pic.jpg` in `_pages/about.md`. The current `prof_pic.png` is a monogram placeholder.
+The profile photo is `assets/img/prof_pic.jpg`; replace that file to change it. The CV PDF is maintained by hand, so update `assets/pdf/Yiqiao_Jin_CV.pdf` whenever `_data/cv.yml` changes.
 
 ## Preview locally
 

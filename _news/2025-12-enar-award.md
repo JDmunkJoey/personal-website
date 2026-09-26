@@ -1,5 +1,6 @@
 ---
 layout: post
+title: ENAR 2026 Distinguished Student Paper Award
 date: 2025-12-01
 inline: true
 related_posts: false

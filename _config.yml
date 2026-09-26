@@ -8,7 +8,7 @@ middle_name:
 last_name: Jin
 contact_note: >
   Email is the best way to reach me.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >- # the ">-" symbol joins lines until "footer_text:" and drops the trailing newline
   Yiqiao Jin is a Ph.D. student in Statistics at Washington University in St. Louis working on ranking inference,
   synthetic data augmentation, high-dimensional statistics, causal inference, and electronic health records.
 footer_text: >
@@ -241,6 +241,9 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - requirements.txt
+  - test/
+  - assets/rendercv/
   - gems/
   - migrations/
   - vendor

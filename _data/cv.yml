@@ -67,103 +67,105 @@ cv:
       - bullet: Causal inference
       - bullet: Electronic health records
 
+    # `journal` is shown in the RenderCV PDF; `publisher` is shown on the website's CV page,
+    # which does not display `authors`, so it repeats the author list.
     Publications:
       - title: Estimation of Dementia Risk Under Persistent and Intermittent Neuropsychiatric Symptom Trajectories Across Age Subgroups
         authors:
-          - "**Y. Jin**"
-          - E. Jeon
-          - S. K. Ghosh
-          - K. Devireddy
-          - M. Garg
-          - X. Liu
-          - Y. E. Geda
-          - J. St. Sauver
-          - M. Vassilaki
-          - R. C. Petersen
-          - S. Sohn
+          - "**Yiqiao Jin**"
+          - Eunji Jeon
+          - Sourav Kumar Ghosh
+          - Kerrthi Devireddy
+          - Muskan Garg
+          - Xingyi Liu
+          - Yonas E. Geda
+          - Jennifer St. Sauver
+          - Maria Vassilaki
+          - Ronald C. Petersen
+          - Sunghwan Sohn
         journal: Submitted
-        publisher: Submitted
+        publisher: "Yiqiao Jin, Eunji Jeon, Sourav Kumar Ghosh, Kerrthi Devireddy, Muskan Garg, Xingyi Liu, Yonas E. Geda, Jennifer St. Sauver, Maria Vassilaki, Ronald C. Petersen, Sunghwan Sohn. Submitted."
         date: 2026
 
       - title: An Interpretable Continuous-Time Multistate Model for Neuropsychiatric Symptoms and Cognitive State Transitions
         authors:
-          - K. Devireddy
-          - M. Garg
-          - "**Y. Jin**"
-          - S. K. Ghosh
-          - X. Liu
-          - E. Jeon
-          - Y. E. Geda
-          - J. St. Sauver
-          - M. Vassilaki
-          - E. Kappor
-          - R. C. Petersen
-          - S. Sohn
+          - Kerrthi Devireddy
+          - Muskan Garg
+          - "**Yiqiao Jin**"
+          - Sourav Kumar Ghosh
+          - Xingyi Liu
+          - Eunji Jeon
+          - Yonas E. Geda
+          - Jennifer St. Sauver
+          - Maria Vassilaki
+          - Ekta Kapoor
+          - Ronald C. Petersen
+          - Sunghwan Sohn
         journal: Manuscript in preparation
-        publisher: Manuscript in preparation
+        publisher: "Kerrthi Devireddy, Muskan Garg, Yiqiao Jin, Sourav Kumar Ghosh, Xingyi Liu, Eunji Jeon, Yonas E. Geda, Jennifer St. Sauver, Maria Vassilaki, Ekta Kapoor, Ronald C. Petersen, Sunghwan Sohn. Manuscript in preparation."
         date: 2026
 
       - title: A Reinforcement Learning–Based Multi-Agent Framework for Personalized Dementia Risk Alerting Following Neuropsychiatric Symptom Onset
         authors:
-          - S. K. Ghosh
-          - X. Liu
-          - K. Devireddy
-          - "**Y. Jin**"
-          - M. Garg
-          - E. Jeon
-          - Y. E. Geda
-          - J. St. Sauver
-          - M. Vassilaki
-          - R. C. Petersen
-          - S. Sohn
+          - Sourav Kumar Ghosh
+          - Xingyi Liu
+          - Kerrthi Devireddy
+          - "**Yiqiao Jin**"
+          - Muskan Garg
+          - Eunji Jeon
+          - Yonas E. Geda
+          - Jennifer St. Sauver
+          - Maria Vassilaki
+          - Ronald C. Petersen
+          - Sunghwan Sohn
         journal: Submitted
-        publisher: Submitted
+        publisher: "Sourav Kumar Ghosh, Xingyi Liu, Kerrthi Devireddy, Yiqiao Jin, Muskan Garg, Eunji Jeon, Yonas E. Geda, Jennifer St. Sauver, Maria Vassilaki, Ronald C. Petersen, Sunghwan Sohn. Submitted."
         date: 2026
 
       - title: Cost-Aware Design for Target-Population Ranking from Partially Labeled Comparisons
         authors:
-          - Z. Yang
-          - "**Y. Jin**"
-          - M. Yu
+          - Zhanyan Yang
+          - "**Yiqiao Jin**"
+          - Mengxin Yu
         journal: Manuscript in preparation
-        publisher: Manuscript in preparation
+        publisher: "Zhanyan Yang, Yiqiao Jin, Mengxin Yu. Manuscript in preparation."
         date: 2026
 
       - title: Maximum Likelihood Estimation for Entity Ranking under Iterative Synthetic Data Augmentation
         authors:
-          - "**Y. Jin**"
-          - M. Yu
+          - "**Yiqiao Jin**"
+          - Mengxin Yu
         journal: Manuscript in preparation
-        publisher: Manuscript in preparation
+        publisher: "Yiqiao Jin, Mengxin Yu. Manuscript in preparation."
         date: 2026
 
       - title: Federated R-learner for Estimating Conditional Average Treatment Effects across Real-World Clinical Datasets
         authors:
           - R. Xin
-          - "**Y. Jin**"
-          - N. Lin
-          - L. Zhang
+          - "**Yiqiao Jin**"
+          - Nan Lin
+          - Linying Zhang
         journal: Manuscript in preparation
-        publisher: Manuscript in preparation
+        publisher: "R. Xin, Yiqiao Jin, Nan Lin, Linying Zhang. Manuscript in preparation."
         date: 2026
 
       - title: Federated R-Learner for Estimating Heterogeneous Treatment Effects for Personalized Treatments
         authors:
           - R. Xin
-          - "**Y. Jin**"
-          - N. Lin
-          - L. Zhang
+          - "**Yiqiao Jin**"
+          - Nan Lin
+          - Linying Zhang
         journal: Oral presentation at the AMIA 2026 Amplify Informatics Conference
-        publisher: Oral presentation at the AMIA 2026 Amplify Informatics Conference
+        publisher: "R. Xin, Yiqiao Jin, Nan Lin, Linying Zhang. Oral presentation at the AMIA 2026 Amplify Informatics Conference."
         date: 2026
 
       - title: Federated R-Learner for Estimating Conditional Average Treatment Effect across Heterogeneous Datasets
         authors:
-          - "**Y. Jin**"
-          - N. Lin
-          - L. Zhang
+          - "**Yiqiao Jin**"
+          - Nan Lin
+          - Linying Zhang
         journal: Winner of the ENAR 2026 Distinguished Student Paper Award
-        publisher: Winner of the ENAR 2026 Distinguished Student Paper Award
+        publisher: "Yiqiao Jin, Nan Lin, Linying Zhang. Winner of the ENAR 2026 Distinguished Student Paper Award."
         date: 2025
 
     Talks and Presentations:

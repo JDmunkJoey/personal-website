@@ -9,7 +9,7 @@ related_publications: true
 **Data Science AI&I Intern (PhD Level), Department of Artificial Intelligence & Informatics, Mayo Clinic** · May 2026 – July 2026
 Mentors: Dr. Eunji Jeon and Dr. Sunghwan Sohn
 
-Neuropsychiatric symptoms (NPS) often precede cognitive decline, but it is unclear whether _how_ symptoms recur over time matters for dementia risk. This project studies dementia risk under persistent and intermittent NPS trajectories.
+This project asks how dementia risk differs under persistent versus intermittent neuropsychiatric symptom (NPS) trajectories.
 
 - Led a longitudinal causal analysis following 2,762 dementia-free participants over five visits in the Mayo Clinic Study of Aging.
 - Designed clinically interpretable trajectory estimands (consecutive, intermittent, sustained) for four NPS syndromes (psychosis, hyperactivity, affect, apathy), enabling direct comparison while holding the number of syndrome-positive visits fixed.
