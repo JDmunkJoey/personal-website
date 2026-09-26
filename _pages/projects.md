@@ -1,12 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: Current and recent research projects. Click a card for details and related papers.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 2
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
