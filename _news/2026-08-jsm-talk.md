@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talk at JSM 2026
-date: 2026-08-01
+date: 2026-08-04
 inline: true
 related_posts: false
 ---

@@ -152,33 +152,27 @@ cv:
         position: Data Science AI&I Intern (PhD Level)
         location: Rochester, MN
         date: 2026-05
-        summary: "May – July 2026. Mentors: Dr. Eunji Jeon and Dr. Sunghwan Sohn. Project: Dementia Risk under Persistent and Intermittent Neuropsychiatric Symptom Trajectories."
+        summary: "Mentors: Dr. Eunji Jeon and Dr. Sunghwan Sohn"
         highlights:
-          - Led a longitudinal causal analysis of dementia risk under persistent vs. intermittent neuropsychiatric symptom (NPS) trajectories, following 2,762 dementia-free participants over five visits in the Mayo Clinic Study of Aging.
-          - Designed clinically interpretable trajectory estimands (consecutive, intermittent, sustained) for four NPS syndromes (psychosis, hyperactivity, affect, apathy), enabling direct comparison holding the number of syndrome-positive visits fixed.
-          - Estimated population-level and age-specific risk ratios via a multiplicative structural nested mean model with doubly robust g-estimation.
-          - Showed that apathy and psychosis carry the strongest dementia-risk signals, with consecutive occurrence of symptoms stronger than intermittent, concentrated in ages 60–84.
+          - "Project: Dementia Risk under Persistent and Intermittent Neuropsychiatric Symptom Trajectories"
 
       - company: Department of Statistics & Data Science, Washington University in St. Louis
         position: Graduate Research Assistant
         location: St. Louis, MO
         start_date: 2025-06
         end_date: present
-        summary: "Advisor: Dr. Mengxin (Maxine) Yu."
+        summary: "Advisor: Dr. Mengxin (Maxine) Yu"
         highlights:
-          - "Cost-Aware Design for Target-Population Ranking from Partially Labeled Comparisons (Mar 2026 – present): formulated leaderboard estimation for a target population from mixed-size top-choice comparisons as a target-protocol weighted Plackett–Luce projection; derived the efficient influence function and a cross-fitted one-step estimator; reparameterized the semiparametric efficiency bound into a convex, cost-aware design problem yielding square-root allocation rules."
-          - "Maximum Likelihood Estimation for Entity Ranking under Iterative Synthetic Data Augmentation (Jun 2025 – Feb 2026): established finite-sample optimal ℓ₂ and ℓ∞ rates, exact top-<em>K</em> recovery, and asymptotic normality of the iterative MLE under the Bradley–Terry–Luce model over sparse comparison graphs; proved that model collapse is avoided whenever the number of retraining iterations grows at most polynomially in the number of items; validated on large-scale simulations and the Arena Human Preference 140k dataset."
+          - "Project 1: Maximum Likelihood Estimation for Entity Ranking under Iterative Synthetic Data Augmentation"
+          - "Project 2: Cost-Aware Design for Target-Population Ranking from Partially Labeled Comparisons"
 
       - company: WashU Institute for Informatics, Data Science and Biostatistics
         position: Graduate Research Assistant
         location: St. Louis, MO
         date: 2025-05
-        summary: "May – October 2025. Advisors: Dr. Nan Lin and Dr. Linying Zhang. Project: Federated R-Learner for Estimating CATE across Heterogeneous Datasets."
+        summary: "Advisors: Dr. Nan Lin and Dr. Linying Zhang"
         highlights:
-          - Developed Fed-R, a privacy-preserving, communication-efficient federated R-learner combining local cross-fitting with Neyman-orthogonal residualization and FedProx-style proximal aggregation, achieving √N-consistency and asymptotic normality without sharing patient-level data.
-          - Uncovered a performance-reversal phenomenon in which federated estimation surpasses centralized pooling once sites violate the overlap assumption, cutting global RMSE by 50–70% and improving local estimation accuracy by 2–4×, with most gains realized within 2–5 communication rounds.
-          - Benchmarked Fed-R against oracle and centralized R-learners across six synthetic scenarios and the semi-synthetic IHDP benchmark.
-          - Cleaned and analyzed a multi-site EHR cohort (90K+ patients, 60K+ covariates) comparing two antihypertensive drugs on time-to-event outcomes.
+          - "Project: Federated R-Learner for Estimating CATE across Heterogeneous Datasets"
 
     Teaching:
       - bullet: "**Assistant Instructor**, SDS 2020 – Elementary Probability and Statistics, WashU (Fall 2026, Spring 2026)"

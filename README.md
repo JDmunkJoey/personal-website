@@ -14,7 +14,6 @@ The site is built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https:
 | Home page (bio, address, photo)      | [`_pages/about.md`](_pages/about.md), photo in `assets/img/`                                           |
 | News on the home page                | [`_news/`](_news/), one Markdown file per item                                                         |
 | Publications                         | [`_bibliography/papers.bib`](_bibliography/papers.bib) (`selected = {true}` shows it on the home page) |
-| Research projects                    | [`_projects/`](_projects/)                                                                             |
 | Talks                                | [`_pages/talks.md`](_pages/talks.md)                                                                   |
 | Teaching                             | [`_pages/teaching.md`](_pages/teaching.md)                                                             |
 | CV page                              | [`_data/cv.yml`](_data/cv.yml), rendered by [`_pages/cv.md`](_pages/cv.md)                             |

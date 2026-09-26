@@ -22,14 +22,14 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Ph.D. student in Statistics in the Department of Statistics & Data Science at [Washington University in St. Louis](https://wustl.edu/) (WashU), advised by Dr. Mengxin (Maxine) Yu and Dr. Xiaofeng Shao. Before coming to WashU, I received an M.S. in Applied Statistics from the School of Data Science at Fudan University and a B.S. in Statistics from Shanghai Normal University.
+I am a Ph.D. student in Statistics in the Department of Statistics & Data Science at [Washington University in St. Louis](https://wustl.edu/) (WashU), advised by Dr. Mengxin (Maxine) Yu and Dr. Xiaofeng Shao. Before coming to WashU, I received an M.S. in Applied Statistics from the School of Data Science at Fudan University, advised by Dr. Bo Fu, and a B.S. in Statistics from Shanghai Normal University, advised by Dr. Xiaoqing Pan.
 
 My research develops statistical methods with rigorous guarantees for modern, data-rich problems. My current interests include:
 
-- **Ranking inference** — uncertainty quantification for rankings and leaderboards built from pairwise and top-choice comparisons (Bradley–Terry–Luce and Plackett–Luce models).
-- **Synthetic data augmentation** — understanding when ranking systems that are repeatedly retrained on synthetic data remain statistically reliable and avoid model collapse.
-- **High-dimensional statistics** — finite-sample estimation and inference theory, such as optimal error rates and top-<em>K</em> recovery over sparse comparison graphs.
-- **Causal inference** — estimating heterogeneous treatment effects, including privacy-preserving federated methods that learn across sites without sharing patient-level data.
-- **Electronic health records** — causal analyses of multi-site EHR cohorts and longitudinal clinical data.
+- Ranking Inference
+- Synthetic Data Augmentation
+- High-dimensional Statistics
+- Causal Inference
+- Electronic Health Records
 
 In summer 2026, I was a Data Science AI&I Intern in the Department of Artificial Intelligence & Informatics at Mayo Clinic. My work on federated R-learning received an ENAR 2026 Distinguished Student Paper Award.
