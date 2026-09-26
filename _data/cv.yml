@@ -1,189 +1,186 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Yiqiao Jin
+  location: St. Louis, MO
+  email: j.yiqiao@wustl.edu
+  website: https://jdmunkjoey.github.io/personal-website/
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: JDmunkJoey
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Washington University in St. Louis
+        area: Statistics
+        degree: Ph.D.
+        location: St. Louis, MO
+        start_date: 2024-08
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Department of Statistics & Data Science
+          - "Advisors: Dr. Mengxin (Maxine) Yu and Dr. Xiaofeng Shao"
+          - "Expected graduation: May 2029"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Fudan University
+        area: Applied Statistics
+        degree: M.S.
+        location: Shanghai, China
+        start_date: 2022-08
+        end_date: 2024-06
         highlights:
-          - Description 1.
-          - Description 2.
+          - School of Data Science
+          - "Advisor: Dr. Bo Fu"
+
+      - institution: Shanghai Normal University
+        area: Statistics
+        degree: B.S.
+        location: Shanghai, China
+        start_date: 2018-08
+        end_date: 2022-06
+        highlights:
+          - Department of Mathematics
+          - "Advisor: Dr. Xiaoqing Pan"
+
+    Honors and Awards:
+      - title: Outstanding Qualifiers Performance
+        authors:
+          - Washington University in St. Louis
+        awarder: Washington University in St. Louis
+        date: 2026-04
+
+      - title: Graduate Service and Leadership Award, Honorable Mention
+        authors:
+          - Washington University in St. Louis
+        awarder: Washington University in St. Louis
+        date: 2026-04
+
+      - title: ENAR Distinguished Student Paper Award
+        authors:
+          - International Biometric Society (ENAR)
+        awarder: International Biometric Society (ENAR)
+        date: 2025-12
+
+    Research Interests:
+      - bullet: Ranking inference
+      - bullet: Synthetic data augmentation
+      - bullet: High-dimensional statistics
+      - bullet: Causal inference
+      - bullet: Electronic health records
+
+    # `journal` is shown in the RenderCV PDF; `publisher` is shown on the website's CV page,
+    # which does not display `authors`, so it repeats the author list.
+    Publications:
+      - title: Estimation of Dementia Risk Under Persistent and Intermittent Neuropsychiatric Symptom Trajectories Across Age Subgroups
+        authors:
+          - "**Yiqiao Jin**"
+          - et al.
+        journal: Submitted
+        publisher: "<strong>Yiqiao Jin</strong>, with collaborators. Submitted."
+        date: 2026
+
+      - title: An Interpretable Continuous-Time Multistate Model for Neuropsychiatric Symptoms and Cognitive State Transitions
+        authors:
+          - "**Yiqiao Jin**"
+          - et al.
+        journal: Manuscript in preparation
+        publisher: "<strong>Yiqiao Jin</strong>, with collaborators. Manuscript in preparation."
+        date: 2026
+
+      - title: A Reinforcement Learning–Based Multi-Agent Framework for Personalized Dementia Risk Alerting Following Neuropsychiatric Symptom Onset
+        authors:
+          - "**Yiqiao Jin**"
+          - et al.
+        journal: Submitted
+        publisher: "<strong>Yiqiao Jin</strong>, with collaborators. Submitted."
+        date: 2026
+
+      - title: Cost-Aware Design for Target-Population Ranking from Partially Labeled Comparisons
+        authors:
+          - Zhanyan Yang
+          - "**Yiqiao Jin**"
+          - Mengxin Yu
+        journal: Manuscript in preparation
+        publisher: "Zhanyan Yang, <strong>Yiqiao Jin</strong>, Mengxin Yu. Manuscript in preparation."
+        date: 2026
+
+      - title: Maximum Likelihood Estimation for Entity Ranking under Iterative Synthetic Data Augmentation
+        authors:
+          - "**Yiqiao Jin**"
+          - Mengxin Yu
+        journal: Manuscript in preparation
+        publisher: "<strong>Yiqiao Jin</strong>, Mengxin Yu. Manuscript in preparation."
+        date: 2026
+
+      - title: Federated R-learner for Estimating Conditional Average Treatment Effects across Real-World Clinical Datasets
+        authors:
+          - Runyan Xin
+          - "**Yiqiao Jin**"
+          - Nan Lin
+          - Linying Zhang
+        journal: Manuscript in preparation
+        publisher: "Runyan Xin, <strong>Yiqiao Jin</strong>, Nan Lin, Linying Zhang. Manuscript in preparation."
+        date: 2026
+
+      - title: Federated R-Learner for Estimating Heterogeneous Treatment Effects for Personalized Treatments
+        authors:
+          - Runyan Xin
+          - "**Yiqiao Jin**"
+          - Nan Lin
+          - Linying Zhang
+        journal: Oral presentation at the AMIA 2026 Amplify Informatics Conference
+        publisher: "Runyan Xin, <strong>Yiqiao Jin</strong>, Nan Lin, Linying Zhang. Oral presentation at the AMIA 2026 Amplify Informatics Conference."
+        date: 2026
+
+      - title: Federated R-Learner for Estimating Conditional Average Treatment Effect across Heterogeneous Datasets
+        authors:
+          - "**Yiqiao Jin**"
+          - Nan Lin
+          - Linying Zhang
+        journal: Winner of the ENAR 2026 Distinguished Student Paper Award
+        publisher: "<strong>Yiqiao Jin</strong>, Nan Lin, Linying Zhang. Winner of the ENAR 2026 Distinguished Student Paper Award."
+        date: 2025
+
+    Talks and Presentations:
+      - bullet: "**Maximum Likelihood Estimation for Entity Ranking under Iterative Synthetic Data Augmentation.** Joint Statistical Meetings (JSM 2026), Session: Uncertainty Quantification in Generative AI. Boston, MA, Aug 2026."
+      - bullet: "**Federated R-Learner for Estimating Conditional Average Treatment Effect across Heterogeneous Datasets.** ENAR 2026 Spring Meeting, Session: Causal Inference for High-Dimensional Data. Indianapolis, IN, Mar 2026."
+      - bullet: "**Maximum Likelihood Estimation for Entity Ranking under Iterative Synthetic Data Augmentation.** Graduate Student Seminar, WashU. St. Louis, MO, Mar 2026."
+      - bullet: "**Implicit Stochastic Gradient Descent.** Stochastic Approximation Reading Group, WashU. St. Louis, MO, Apr 2025."
+      - bullet: "**Introduction to Simulation-based Inference.** Uncertainty Quantification and Synthetic Data Reading Group, WashU. St. Louis, MO, Feb 2025."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Mayo Clinic, Department of Artificial Intelligence & Informatics
+        position: Data Science AI&I Intern (PhD Level)
+        location: Rochester, MN
+        date: 2026-05
+        summary: "May – July 2026. Mentors: Dr. Eunji Jeon and Dr. Sunghwan Sohn. Project: Dementia Risk under Persistent and Intermittent Neuropsychiatric Symptom Trajectories."
         highlights:
-          - Relativity
-          - Description 2.
+          - Led a longitudinal causal analysis of dementia risk under persistent vs. intermittent neuropsychiatric symptom (NPS) trajectories, following 2,762 dementia-free participants over five visits in the Mayo Clinic Study of Aging.
+          - Designed clinically interpretable trajectory estimands (consecutive, intermittent, sustained) for four NPS syndromes (psychosis, hyperactivity, affect, apathy), enabling direct comparison holding the number of syndrome-positive visits fixed.
+          - Estimated population-level and age-specific risk ratios via a multiplicative structural nested mean model with doubly robust g-estimation.
+          - Showed that apathy and psychosis carry the strongest dementia-risk signals, with consecutive occurrence of symptoms stronger than intermittent, concentrated in ages 60–84.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Department of Statistics & Data Science, Washington University in St. Louis
+        position: Graduate Research Assistant
+        location: St. Louis, MO
+        start_date: 2025-06
+        end_date: present
+        summary: "Advisor: Dr. Mengxin (Maxine) Yu."
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Cost-Aware Design for Target-Population Ranking from Partially Labeled Comparisons (Mar 2026 – present): formulated leaderboard estimation for a target population from mixed-size top-choice comparisons as a target-protocol weighted Plackett–Luce projection; derived the efficient influence function and a cross-fitted one-step estimator; reparameterized the semiparametric efficiency bound into a convex, cost-aware design problem yielding square-root allocation rules."
+          - "Maximum Likelihood Estimation for Entity Ranking under Iterative Synthetic Data Augmentation (Jun 2025 – Feb 2026): established finite-sample optimal ℓ₂ and ℓ∞ rates, exact top-<em>K</em> recovery, and asymptotic normality of the iterative MLE under the Bradley–Terry–Luce model over sparse comparison graphs; proved that model collapse is avoided whenever the number of retraining iterations grows at most polynomially in the number of items; validated on large-scale simulations and the Arena Human Preference 140k dataset."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: WashU Institute for Informatics, Data Science and Biostatistics
+        position: Graduate Research Assistant
+        location: St. Louis, MO
+        date: 2025-05
+        summary: "May – October 2025. Advisors: Dr. Nan Lin and Dr. Linying Zhang. Project: Federated R-Learner for Estimating CATE across Heterogeneous Datasets."
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Developed Fed-R, a privacy-preserving, communication-efficient federated R-learner combining local cross-fitting with Neyman-orthogonal residualization and FedProx-style proximal aggregation, achieving √N-consistency and asymptotic normality without sharing patient-level data.
+          - Uncovered a performance-reversal phenomenon in which federated estimation surpasses centralized pooling once sites violate the overlap assumption, cutting global RMSE by 50–70% and improving local estimation accuracy by 2–4×, with most gains realized within 2–5 communication rounds.
+          - Benchmarked Fed-R against oracle and centralized R-learners across six synthetic scenarios and the semi-synthetic IHDP benchmark.
+          - Cleaned and analyzed a multi-site EHR cohort (90K+ patients, 60K+ covariates) comparing two antihypertensive drugs on time-to-event outcomes.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Teaching:
+      - bullet: "**Assistant Instructor**, SDS 2020 – Elementary Probability and Statistics, WashU (Fall 2026, Spring 2026)"
+      - bullet: "**Teaching Assistant**, SDS 5210 – Statistical Computation, WashU (Fall 2025)"
+      - bullet: "**Teaching Assistant**, SDS 5531 – Advanced Statistical Computation, WashU (Fall 2025)"

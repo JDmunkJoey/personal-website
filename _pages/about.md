@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Student in Statistics · <a href='https://sds.wustl.edu/'>Department of Statistics & Data Science</a> · Washington University in St. Louis
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Jolley Hall, Room 505</p>
+    <p>Washington University in St.&nbsp;Louis</p>
+    <p>St.&nbsp;Louis, MO 63130</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Statistics in the Department of Statistics & Data Science at [Washington University in St. Louis](https://wustl.edu/) (WashU), advised by Dr. Mengxin (Maxine) Yu and Dr. Xiaofeng Shao. Before coming to WashU, I received an M.S. in Applied Statistics from the School of Data Science at Fudan University and a B.S. in Statistics from Shanghai Normal University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research develops statistical methods with rigorous guarantees for modern, data-rich problems. My current interests include:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Ranking inference** — uncertainty quantification for rankings and leaderboards built from pairwise and top-choice comparisons (Bradley–Terry–Luce and Plackett–Luce models).
+- **Synthetic data augmentation** — understanding when ranking systems that are repeatedly retrained on synthetic data remain statistically reliable and avoid model collapse.
+- **High-dimensional statistics** — finite-sample estimation and inference theory, such as optimal error rates and top-<em>K</em> recovery over sparse comparison graphs.
+- **Causal inference** — estimating heterogeneous treatment effects, including privacy-preserving federated methods that learn across sites without sharing patient-level data.
+- **Electronic health records** — causal analyses of multi-site EHR cohorts and longitudinal clinical data.
+
+In summer 2026, I was a Data Science AI&I Intern in the Department of Artificial Intelligence & Informatics at Mayo Clinic. My work on federated R-learning received an ENAR 2026 Distinguished Student Paper Award.

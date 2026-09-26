@@ -1,9 +1,8 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Colors and links for the `abbr` badges shown next to entries in _bibliography/papers.bib
+"AMIA":
+  url: https://amia.org/
+  color: "#00629b"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"ENAR":
+  url: https://www.enar.org/
+  color: "#2e6e3f"
