@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching at the Department of Statistics & Data Science, Washington University in St. Louis.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## Assistant Instructor
