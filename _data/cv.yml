@@ -82,8 +82,8 @@ cv:
         authors:
           - "**Yiqiao Jin**"
           - et al.
-        journal: Manuscript in preparation
-        publisher: "<strong>Yiqiao Jin</strong>, with collaborators. Manuscript in preparation."
+        journal: Submitted
+        publisher: "<strong>Yiqiao Jin</strong>, with collaborators. Submitted."
         date: 2026
 
       - title: A Reinforcement Learning–Based Multi-Agent Framework for Personalized Dementia Risk Alerting Following Neuropsychiatric Symptom Onset
@@ -107,8 +107,8 @@ cv:
         authors:
           - "**Yiqiao Jin**"
           - Mengxin Yu
-        journal: Manuscript in preparation
-        publisher: "<strong>Yiqiao Jin</strong>, Mengxin Yu. Manuscript in preparation."
+        journal: Submitted
+        publisher: "<strong>Yiqiao Jin</strong>, Mengxin Yu. Submitted."
         date: 2026
 
       - title: Federated R-learner for Estimating Conditional Average Treatment Effects across Real-World Clinical Datasets
