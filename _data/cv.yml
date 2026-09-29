@@ -104,6 +104,7 @@ cv:
         date: 2026
 
       - title: Maximum Likelihood Estimation for Entity Ranking under Iterative Synthetic Data Augmentation
+        url: https://arxiv.org/abs/2609.32987
         authors:
           - "**Yiqiao Jin**"
           - Mengxin Yu
