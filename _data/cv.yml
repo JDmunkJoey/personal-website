@@ -69,17 +69,36 @@ cv:
       - title: Estimation of Dementia Risk Under Persistent and Intermittent Neuropsychiatric Symptom Trajectories Across Age Subgroups
         authors:
           - "**Yiqiao Jin**"
-          - et al.
+          - Eunji Jeon
+          - Sourav Kumar Ghosh
+          - Keerthi Devireddy
+          - Muskan Garg
+          - Xingyi Liu
+          - Yonas E. Geda
+          - Jennifer St. Sauver
+          - Maria Vassilaki
+          - Ronald C. Petersen
+          - Sunghwan Sohn
         journal: Accepted to IEEE BIBM 2026 Workshop on Machine Learning and Artificial Intelligence in Bioinformatics and Medical Informatics (MABM 2026)
-        publisher: "<strong>Yiqiao Jin</strong>, with collaborators. Accepted to IEEE BIBM 2026 Workshop on Machine Learning and Artificial Intelligence in Bioinformatics and Medical Informatics (MABM 2026)."
+        publisher: "<strong>Yiqiao Jin</strong>, Eunji Jeon, Sourav Kumar Ghosh, Keerthi Devireddy, Muskan Garg, Xingyi Liu, Yonas E. Geda, Jennifer St. Sauver, Maria Vassilaki, Ronald C. Petersen, Sunghwan Sohn. Accepted to IEEE BIBM 2026 Workshop on Machine Learning and Artificial Intelligence in Bioinformatics and Medical Informatics (MABM 2026)."
         date: 2026
 
       - title: An Interpretable Continuous-Time Multistate Model for Neuropsychiatric Symptoms and Cognitive State Transitions
         authors:
+          - Keerthi Devireddy
+          - Muskan Garg
           - "**Yiqiao Jin**"
-          - et al.
+          - Sourav Kumar Ghosh
+          - Xingyi Liu
+          - Eunji Jeon
+          - Yonas E. Geda
+          - Jennifer St. Sauver
+          - Maria Vassilaki
+          - Ekta Kapoor
+          - Ronald C. Petersen
+          - Sunghwan Sohn
         journal: Accepted to IEEE BIBM 2026 Workshop on Translational AI for Real-World Healthcare and Biomedicine (TransAI)
-        publisher: "<strong>Yiqiao Jin</strong>, with collaborators. Accepted to IEEE BIBM 2026 Workshop on Translational AI for Real-World Healthcare and Biomedicine (TransAI)."
+        publisher: "Keerthi Devireddy, Muskan Garg, <strong>Yiqiao Jin</strong>, Sourav Kumar Ghosh, Xingyi Liu, Eunji Jeon, Yonas E. Geda, Jennifer St. Sauver, Maria Vassilaki, Ekta Kapoor, Ronald C. Petersen, Sunghwan Sohn. Accepted to IEEE BIBM 2026 Workshop on Translational AI for Real-World Healthcare and Biomedicine (TransAI)."
         date: 2026
 
       - title: A Reinforcement Learning–Based Multi-Agent Framework for Personalized Dementia Risk Alerting Following Neuropsychiatric Symptom Onset
