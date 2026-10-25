@@ -33,7 +33,7 @@ bundle exec al-folio upgrade overrides diff <path>    # then `overrides accept <
 
 `npm run lint:style-contract` (`test/style_contract.js`) enforces the thin-starter boundary. No workflow runs it on this personal site any more, so run it yourself before pushing. Beyond the forbidden paths listed in `AGENTS.md`, it also asserts that `_config.yml` keeps `theme: al_folio_core` and the required plugins, that the `third_party_libraries` SRI pins are present, and that the `al_math` Gemfile pin stays on a released version rather than a git branch.
 
-CI gates. This personal site removed four upstream workflows: `unit-tests.yml`, `visual-regression.yml` and `lighthouse-badger.yml` target the template's demo content, and `render-cv.yml` is unused because the CV PDF in `assets/pdf/` is maintained by hand. The remaining gates:
+CI gates. This personal site removed four upstream workflows: `unit-tests.yml`, `visual-regression.yml` and `lighthouse-badger.yml` target the template's demo content, and `render-cv.yml` is unused because the site does not publish a CV PDF. The remaining gates:
 
 - `upgrade-check.yml` — `bundle exec al-folio upgrade audit`.
 - `prettier.yml` — Prettier with `@shopify/prettier-plugin-liquid` and `printWidth: 150`. Run `npm run lint:prettier` before pushing; `npx prettier . --write` fixes.

@@ -17,10 +17,9 @@ The site is built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https:
 | Talks                                | [`_pages/talks.md`](_pages/talks.md)                                                                   |
 | Teaching                             | [`_pages/teaching.md`](_pages/teaching.md)                                                             |
 | CV page                              | [`_data/cv.yml`](_data/cv.yml), rendered by [`_pages/cv.md`](_pages/cv.md)                             |
-| CV PDF (download link)               | [`assets/pdf/Yiqiao_Jin_CV.pdf`](assets/pdf/Yiqiao_Jin_CV.pdf)                                         |
-| Social / contact icons               | [`_data/socials.yml`](_data/socials.yml)                                                               |
+| Social / contact icons (off)         | [`_data/socials.yml`](_data/socials.yml), shown when `social: true` in `_pages/about.md`               |
 
-The profile photo is `assets/img/prof_pic.jpg`; replace that file to change it. The CV PDF is maintained by hand, so update `assets/pdf/Yiqiao_Jin_CV.pdf` whenever `_data/cv.yml` changes.
+The profile photo is `assets/img/prof_pic.jpg`; replace that file to change it. The site does not publish a CV PDF.
 
 ## Preview locally
 
