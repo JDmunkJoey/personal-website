@@ -103,10 +103,19 @@ cv:
 
       - title: A Reinforcement Learning–Based Multi-Agent Framework for Personalized Dementia Risk Alerting Following Neuropsychiatric Symptom Onset
         authors:
+          - Sourav Kumar Ghosh
+          - Xingyi Liu
+          - Keerthi Devireddy
           - "**Yiqiao Jin**"
-          - et al.
-        journal: Submitted
-        publisher: "<strong>Yiqiao Jin</strong>, with collaborators. Submitted."
+          - Muskan Garg
+          - Eunji Jeon
+          - Yonas E. Geda
+          - Jennifer St. Sauver
+          - Maria Vassilaki
+          - Ronald C. Petersen
+          - Sunghwan Sohn
+        journal: Accepted to IEEE BIBM 2026 Workshop on Agentic Artificial Intelligence for Bioinformatics and Health Informatics (AgIA4BioHealth)
+        publisher: "Sourav Kumar Ghosh, Xingyi Liu, Keerthi Devireddy, <strong>Yiqiao Jin</strong>, Muskan Garg, Eunji Jeon, Yonas E. Geda, Jennifer St. Sauver, Maria Vassilaki, Ronald C. Petersen, Sunghwan Sohn. Accepted to IEEE BIBM 2026 Workshop on Agentic Artificial Intelligence for Bioinformatics and Health Informatics (AgIA4BioHealth)."
         date: 2026
 
       - title: Cost-Aware Design for Target-Population Ranking from Partially Labeled Comparisons
